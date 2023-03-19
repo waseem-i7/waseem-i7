@@ -1,4 +1,4 @@
-![MasterHead](https://blogadministrator.waysandmeanstechnology.com/FileManager/Posts/92a202e8-99c8-4de8-abc3-22a3b0a868c0.jpg)
+![MasterHead](https://tse1.mm.bing.net/th?id=OIP.WbcR4SQeE8dAZqX_-TmT9QHaDt&pid=Api&P=0)
 <h1 align="center">Hi, I'm Waseem</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
