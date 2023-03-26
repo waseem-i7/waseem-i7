@@ -1,4 +1,4 @@
-![MasterHead](https://tse1.mm.bing.net/th?id=OIP.WbcR4SQeE8dAZqX_-TmT9QHaDt&pid=Api&P=0)
+![MasterHead](https://1.bp.blogspot.com/-nYoXkKYqPbM/XmlGfH2JyfI/AAAAAAAAOvM/VZagj9-mJeE_I33RCxltSYI9p7SZC9udgCLcBGAsYHQ/s1600/AD%2BBlogger.png)
 <h1 align="center">Hi, I'm Waseem</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
